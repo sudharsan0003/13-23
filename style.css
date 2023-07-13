@@ -1,0 +1,17 @@
+.about,
+.project,
+.skill {
+  height: 70vh;
+}
+nav {
+  margin: 1rem 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 18px;
+}
